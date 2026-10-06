@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pandas
+numpy
+scipy
+scikit-learn
+openpyxl
+duckdb
+sqlalchemy
+pydantic
+reportlab
+google-genai
+python-dotenv

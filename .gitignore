@@ -1,0 +1,30 @@
+# Backend secrets
+backend/.env
+backend/.env.*
+
+# Python virtual environment
+backend/venv/
+
+# Uploaded datasets and database
+backend/data/
+
+# Python cache
+**/__pycache__/
+*.pyc
+.pytest_cache/
+
+# Frontend dependencies and build
+frontend/node_modules/
+frontend/dist/
+
+# Frontend environment
+frontend/.env
+frontend/.env.*
+!frontend/.env.example
+
+# Logs and editor/OS files
+*.log
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
