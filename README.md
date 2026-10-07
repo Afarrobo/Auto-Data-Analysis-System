@@ -67,7 +67,7 @@ pip install -r requirements.txt
 Create `backend/.env`:
 
 ```
-GEMINI_API_KEY=your_key_here
+GEMINI_API_KEY=my_api_secret_key_here
 GEMINI_MODEL=gemini-3.8-flash
 ```
 
