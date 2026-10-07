@@ -16,7 +16,7 @@ Upload a spreadsheet and get an instant analysis: data profile, quality checks, 
 - **EDA**: statistics (mean, median, std, skewness, kurtosis) and relationships between columns
 - **Charts**: histogram, bar, line, scatter, box plot, heatmap, with automatic chart suggestions
 - **Correlation**: correlation matrix and strongest pairs
-- **AI insights**: short plain-language summary written by Gemini(this feature is not available on live host , its worable on local host)
+- **AI insights**: short plain-language summary written by Gemini(this feature is not available on live host , it's workable on local host)
 - **Reports**: download a PDF report
 
 ## How the AI part works
