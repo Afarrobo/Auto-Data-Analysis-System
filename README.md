@@ -6,6 +6,7 @@ Upload a spreadsheet and get an instant analysis: data profile, quality checks, 
 
 > The backend runs on a free Render plan. If the site has been idle, the first request can take about a minute while the server wakes up.
 > This is a demo project. Please use sample or anonymised data only. Uploaded files are temporary.
+> If an error occurs, please reupload
 
 ## Features
 
